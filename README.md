@@ -1,6 +1,6 @@
-# public_time_trust
+# Time-TRUST
 
-Minimal, publishable subset of the TRUST pipeline focused on:
+TRUST pipeline focused on:
 - iterative TRUST selection (full, sensors, windows),
 - MILP-1 and MILP-2 formulation via GAMSPy,
 - surrogate MLP build/training,
